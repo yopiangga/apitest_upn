@@ -18,7 +18,7 @@ app.use(express.json());
 app.get("/", (req, res) => {
   res.json({
     success: true,
-    message: "ok",
+    message: "Android C. 2025 - UPN Jakarta",
   });
 });
 
